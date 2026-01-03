@@ -1,0 +1,4 @@
+LDR, X1, X3, 4
+ADD, X0, X1, X2
+MUL, X0, X1, X0
+STR, X3, X0, 0
